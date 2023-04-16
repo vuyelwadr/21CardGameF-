@@ -1,0 +1,15 @@
+# Compiled files
+bin/
+obj/
+
+# Dependencies
+packages/
+
+# F# specific
+*.fsi
+*.fsxobj
+*.fsproj.user
+
+.fake
+.bzt-rc
+bzt.log
